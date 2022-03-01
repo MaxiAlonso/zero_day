@@ -1,4 +1,4 @@
-# ** 0x00-vagrant **
+# **0x00-vagrant**
 
 The learning objectives for this project were:
 
