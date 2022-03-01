@@ -1,1 +1,5 @@
-**This is my first GIT proyect 2.0** 
+# **Zero day**
+
+This repository contains the following projects:
+	• 0x00-vagrant
+	• 0x03-git 
